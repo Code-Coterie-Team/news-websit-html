@@ -17,11 +17,15 @@
 }
 
 .main{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 100vh;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
+
+.right{
+    float: right;
+}
 
 
 .left{
