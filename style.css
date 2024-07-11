@@ -70,3 +70,16 @@
     width: 370px;
     height: 240px;
 }
+
+
+/* mott main */
+
+.bottommain{
+    display: flex;
+
+}
+
+.bottommain img{
+    width: 500px;
+    height: 300px;
+}
