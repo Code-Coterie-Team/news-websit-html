@@ -15,3 +15,26 @@
     margin-top: 35px;
     font-size: 13px;
 }
+
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+}
+
+
+
+.left{
+  margin-top: 10px;
+  padding: 5px;
+  background-color: rgb(228, 220, 220);
+}
+.left p{
+    width: 70%;
+    margin: 20px;
+}
+
+.left img{
+    width: 75%;
+    height: 800px;
+}
