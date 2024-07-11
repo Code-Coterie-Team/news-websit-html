@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .title h1{
     text-align: center;
     margin-top: 15px;
@@ -25,6 +26,8 @@
 
 .right{
     float: right;
+    background-color: rgb(228, 220, 220);
+    
 }
 
 
@@ -39,7 +42,7 @@
 }
 
 .left img{
-    width: 75%;
+    width: 65%;
     height: 800px;
 }
 
@@ -48,17 +51,21 @@
 
 .india{
  border: 40px solid white;
- margin: 10px;
  color: rgb(0, 0, 0);
  background-color: white;
  font-size: 20px;
+ margin-bottom: 20px;
 }
 
 .india h3{
     text-align: left;
 }
 
+.india p{
+    font-size: 15px;
+}
+
 .india img{
-    width: 270px;
+    width: 370px;
     height: 240px;
 }
