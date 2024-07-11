@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title h1{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+
+.title h6{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 13px;
+}
