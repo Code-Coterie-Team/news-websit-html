@@ -42,3 +42,23 @@
     width: 75%;
     height: 800px;
 }
+
+
+/* right */
+
+.india{
+ border: 40px solid white;
+ margin: 10px;
+ color: rgb(0, 0, 0);
+ background-color: white;
+ font-size: 20px;
+}
+
+.india h3{
+    text-align: left;
+}
+
+.india img{
+    width: 270px;
+    height: 240px;
+}
