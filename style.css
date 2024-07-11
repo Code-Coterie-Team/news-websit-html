@@ -51,6 +51,7 @@
 /* right */
 
 .india{
+    margin-top: 20px;
  border: 40px solid white;
  color: rgb(0, 0, 0);
  background-color: white;
@@ -75,6 +76,7 @@
 /* mott main */
 
 .bottommain{
+    margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -82,9 +84,10 @@
     margin: 3px;
     padding: 10px;
    text-align: center;
-
+   gap: 180px;
     
 }
+
 
 .bottommain img{
     height: 200px;
