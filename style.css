@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background-color: rgb(228, 220, 220);
+}
+
 
 
 .title h1{
@@ -28,14 +32,13 @@
 .right{
     float: right;
     background-color: rgb(228, 220, 220);
-    
 }
 
 
 .left{
-  margin-top: 10px;
+  margin-top: 60px;
   padding: 5px;
-  background-color: rgb(228, 220, 220);
+  background-color: rgb(255, 255, 255);
 }
 .left p{
     width: 70%;
@@ -43,6 +46,7 @@
 }
 
 .left img{
+    margin-top: 20px;
     width: 65%;
     height: 800px;
 }
@@ -91,4 +95,14 @@
 
 .bottommain img{
     height: 200px;
+}
+
+/* center main */
+
+.center{
+    margin-top: 20px;
+}
+.center img{
+    height: 300px;
+
 }
